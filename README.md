@@ -54,7 +54,7 @@ To run this project locally, follow these steps:
 
 ## Credits
 
-- **Tutorial Credits:** Many thanks to [Codedex]([https://codedex.io]) for providing the tutorial that helped me complete this project.
+- **Tutorial Credits:** Many thanks to [Codedex](https://codedex.io) for providing the tutorial that helped me complete this project.
   
 ## Technologies Used
 
